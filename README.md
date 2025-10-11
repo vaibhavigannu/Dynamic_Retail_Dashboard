@@ -140,7 +140,7 @@ The **People** dataset provides information about employees and their regions. I
 **Visuals**: <img width="614" height="434" alt="image" src="https://github.com/user-attachments/assets/03386beb-0e25-4c46-ac16-5c305bfe595d" />
 
 
-### 5. **Sales and Profit Analysis (Problem Statement 2)**
+### 5. **Sales and Profit Analysis **
 
 **Objective**: To analyze how sales and profit align across different product categories, customer segments, and markets.
 
