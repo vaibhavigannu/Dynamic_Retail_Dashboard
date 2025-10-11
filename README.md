@@ -111,7 +111,8 @@ The **People** dataset provides information about employees and their regions. I
 
 **Objective**: To analyze return rates by product category, segment, and region to identify products or markets with higher return rates.
 
-**Visuals**: <img width="610" height="428" alt="image" src="https://github.com/user-attachments/assets/d984d8b1-d16f-4390-a3d2-25987af38d2c" />
+**Visuals**: <img width="531" height="445" alt="image" src="https://github.com/user-attachments/assets/d89b82f8-ae16-4445-b63b-2bac1c03f902" />
+
 
 
 * **Return Rate by Product Category**: Bar chart comparing return rates for different categories.
