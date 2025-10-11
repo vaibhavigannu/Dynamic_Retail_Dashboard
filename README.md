@@ -136,6 +136,7 @@ The **People** dataset provides information about employees and their regions. I
 **Visuals**: <img width="614" height="434" alt="image" src="https://github.com/user-attachments/assets/81cab740-2711-4ed9-87dd-e2de11f2205e" />
 
 * **Bottom 5 Subcategories by Profitability**: Visualizing the least profitable subcategories to focus on operational improvements.
+  
 **Visuals**: <img width="614" height="434" alt="image" src="https://github.com/user-attachments/assets/03386beb-0e25-4c46-ac16-5c305bfe595d" />
 
 
